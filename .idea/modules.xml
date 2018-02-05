@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DomThird .iml" filepath="$PROJECT_DIR$/.idea/modules/DomThird .iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DomThird_.iml" filepath="$PROJECT_DIR$/.idea/modules/DomThird_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DomThird__main.iml" filepath="$PROJECT_DIR$/.idea/modules/DomThird__main.iml" group="DomThird_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DomThird__test.iml" filepath="$PROJECT_DIR$/.idea/modules/DomThird__test.iml" group="DomThird_" />
+    </modules>
+  </component>
+</project>
