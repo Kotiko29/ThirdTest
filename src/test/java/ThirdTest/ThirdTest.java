@@ -11,7 +11,7 @@ public class ThirdTest {
         public static void main(String[] Args){
        // System.setProperty("webdriver.chrome.driver", "C:\\Tools\\chromedriver.exe");
       //  ChromeDriver Driver = new ChromeDriver();
-
+      //InternetExplorerDriver Driver = new InternetExplorerDriver();
         FirefoxDriver Driver = new FirefoxDriver();
         Driver.manage().window().maximize();
         Driver.get("http://localhost/litecart/admin/");
